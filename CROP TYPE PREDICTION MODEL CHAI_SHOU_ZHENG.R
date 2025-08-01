@@ -1,6 +1,6 @@
 # --------------------------------------------------
-# R script: FIT3152_Ass2
-# Project: FIT3152 Assignment2
+# R script: CROP TYPE PREDICTION
+# Project: CROP TYPE PREDICTION
 #
 # Date: 17/5/2025
 # Time: 3:54AM
